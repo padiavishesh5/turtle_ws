@@ -1,0 +1,8 @@
+/catch_turtle:
+  ros__parameters:
+    closest_turtle_to_catch: True
+
+/spawner_turtle:
+  ros__parameters:
+    turtle_prefix_name: Vishesh
+    spawn_frequency: 2.0
